@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n1c0la5-lab
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on quantitative analysis
+- 💞️ I’m looking to collaborate on AI and Trading
 
 <!---
 n1c0la5-lab/n1c0la5-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
