@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n1c0la5-lab
-- 🌱 I’m currently learning python
+- 🌱 I’m currently on an adventure of building a company
 - 💞️ I’m looking to collaborate on AI and Trading
 
 <!---
